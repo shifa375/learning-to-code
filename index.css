@@ -1,8 +1,42 @@
+body{
+    overflow: hidden;
+}
+
+
+nav{
+    border: 2px ridge red;
+    border-radius: 20em;
+    margin-bottom: 1em;
+
+}
+
 nav ul li{
     list-style-type: none;
     display: inline;
 }
+nav ul li a{
+    text-decoration: none;
+}
 nav ul{
     display: flex;
     justify-content:space-between;
+}
+.container{
+    background-color: pink;
+    padding: 1em;
+}
+
+.container h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.shifa{
+    background-color: blue;
+    padding: 2em;
+    color: white;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
