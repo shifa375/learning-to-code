@@ -1,0 +1,112 @@
+nav{
+    border: 2px ridge red;
+    border-radius: 20em;
+    margin-bottom: 1em;
+
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul{
+    display: flex;
+    justify-content:space-between;
+}
+.container {
+    background-color: pink;
+    padding: 1em;
+}
+
+.container h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.shifa{
+    background-color: blue;
+    padding: 2em;
+    color: white;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container1 {
+    background-color: coral;
+    padding: 1em; 
+}
+.container1 h1{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.javeriya{
+    background-color: crimson;
+    padding:2em ;
+    color: white;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+}
+
+#gallery-text-right{
+    
+}
+
+.container2 {
+    background-color: coral;
+    padding: 1em;
+
+}
+.container2 h1{
+    text-align: left;
+    font-family: cursive;
+}
+
+.khurath{
+    background-color: darkcyan;
+    padding:2em ;
+    color: white;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+}
+.container3{
+    background-color: coral;
+    padding: 1em;
+
+}
+.container3 h1{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.saba{
+    background-color: violet;
+    padding:2em ;
+    color: white;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+}
+.container4{
+    background-color: coral;
+    padding: 1em;
+
+}
+.container4 h1{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.noorain{
+    background-color: turquoise;
+    padding:2em ;
+    color: white;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 45%;
+}
